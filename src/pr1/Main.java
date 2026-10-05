@@ -1,3 +1,5 @@
+package pr1;
+
 import java.util.Arrays;
 
 public class Main {
